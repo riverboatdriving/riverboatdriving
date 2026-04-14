@@ -2,8 +2,8 @@
 
 My name is Rey and this is my personal Github. I have no idea yet what to do with this Github account but you will see my struggles as I learn how to do this. I have some experience as a Sysops and I'm looking to move to either DevOps or network engineering.
 
-⚡ Fun fact: The longest I have run is 80km.
-🌱 I’m currently learning to be something of a Cloud Devops
+- ⚡ Fun fact: The longest I have run is 80km.
+- 🌱 I’m currently learning to be something of a Cloud Devops
 
 <!--s
 **riverboatdriving/riverboatdriving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
